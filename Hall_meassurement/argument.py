@@ -1,4 +1,5 @@
 import argparse
+import numpy as np
 
 def parser():
     parser = argparse.ArgumentParser(description='PPMS data processing')
