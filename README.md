@@ -10,7 +10,7 @@ The measurement process is divided into two parts:
 
 ## Usage
 
-Due to the implement of the argument, only the data file path and saved path of the target calculated CSV file and plotted figures.
+Due to the implementation of the argparse library, only the data file path and saved path of the target calculated CSV file and plotted figures.
 To analyze and plot the temperature  in Redshift, run 
 
 To run the ETL pipeline and load data into Redshift, execute 
